@@ -66,7 +66,7 @@ The project uses a clever two-pass system to separate exercises and solutions:
   - Both styles are acceptable and should be mixed throughout
 - **Escape special characters**: Use `\&` instead of `&` in text
 - **Line length**: Keep source files to maximum 100 characters per line for readability
-- Theme exercises around: gaming (Minecraft, Zelda, Fortnite), tennis, scouts, Harry Potter, cooking, saxophone, explosions, mud, board games (Scrabble, Catan, Monopoly, Everdell)
+- Theme exercises around: gaming (Minecraft, Zelda, Fortnite), tennis, scouts, Harry Potter, cooking, saxophone, explosions, mud, board games (Scrabble, Catan, Monopoly, Everdell), Daan's Droomijs (ice cream shop), Sinterklaas, Knopenbad (swimming pool), traveling by car within Netherlands and to France
 
 ### Important Requirements
 - Every question MUST have a clear, numeric answer
