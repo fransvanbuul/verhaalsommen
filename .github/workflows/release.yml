@@ -1,0 +1,63 @@
+name: Build and Release PDF
+
+on:
+  push:
+    tags:
+      - 'v*'  # Triggers on version tags like v1.0.0
+  workflow_dispatch:  # Allows manual trigger
+
+jobs:
+  build-and-release:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      
+    - name: Install LaTeX dependencies
+      run: |
+        sudo apt-get update
+        sudo apt-get install -y texlive-latex-base texlive-latex-extra texlive-lang-european texlive-fonts-recommended
+        
+    - name: Generate file list
+      run: ./genfilelist
+      
+    - name: Build PDF
+      run: |
+        # Run pdflatex twice to ensure proper cross-references
+        pdflatex verhaalsommen.tex
+        pdflatex verhaalsommen.tex
+        
+    - name: Check PDF was created
+      run: |
+        if [ ! -f verhaalsommen.pdf ]; then
+          echo "PDF was not created successfully"
+          exit 1
+        fi
+        ls -la verhaalsommen.pdf
+        
+    - name: Create Release
+      uses: softprops/action-gh-release@v1
+      if: startsWith(github.ref, 'refs/tags/')
+      with:
+        files: verhaalsommen.pdf
+        name: "Verhaalsommen ${{ github.ref_name }}"
+        body: |
+          📚 Dutch Math Story Problems (Verhaalsommen)
+          
+          This release contains the compiled PDF with all exercises and solutions.
+          
+          **What's included:**
+          - Complete exercise book with story problems for groep 8 students
+          - Step-by-step solutions in the appendix
+          - Engaging themes: gaming, tennis, scouts, Harry Potter, cooking, and more!
+          
+          **How to use:**
+          1. Download the PDF file
+          2. Print or view digitally
+          3. Work through exercises with pen and paper
+          4. Check solutions in the appendix
+        draft: false
+        prerelease: false
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
