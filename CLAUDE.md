@@ -60,10 +60,13 @@ The project uses a clever two-pass system to separate exercises and solutions:
 - **ALWAYS verify calculations using ./calc**: `./calc "3 + 2 * 6"` yields 15
 - Use UTF-8 encoding, avoid special multiplication symbols (use 'x' instead of '×')
 - **Avoid Unicode characters**: Never use Unicode symbols like ✓, ≈, ×, etc. - use text equivalents instead
-- **Use proper LaTeX formatting**: Replace bullet lists (-) with `\begin{itemize}\item...\end{itemize}`
+- **Exercise formatting variety**: Mix different formatting styles for visual variety:
+  - Some exercises can use bullet lists with `\begin{itemize}\item...\end{itemize}` 
+  - Others can use paragraph format without bullets
+  - Both styles are acceptable and should be mixed throughout
 - **Escape special characters**: Use `\&` instead of `&` in text
 - **Line length**: Keep source files to maximum 100 characters per line for readability
-- Theme exercises around: gaming (Minecraft, Zelda, Fortnite), tennis, scouts, Harry Potter, cooking, saxophone, explosions, mud
+- Theme exercises around: gaming (Minecraft, Zelda, Fortnite), tennis, scouts, Harry Potter, cooking, saxophone, explosions, mud, board games (Scrabble, Catan, Monopoly, Everdell)
 
 ### Important Requirements
 - Every question MUST have a clear, numeric answer

@@ -48,53 +48,53 @@
 48. Saxofoon - verschillende instrumenten vergelijken
 49. Explosies - vuurwerkfabriek bezoek
 50. Draak fokkerij - eieren uitbroeden en draken voeren
-51. Minecraft - server hosting kosten
-52. Harry Potter - magische wezens verzorgen
-53. Fortnite - stream uitrusting kopen
-54. Zelda - geheugen uitbreidingen verzamelen
-55. Tennis - Wimbledon tickets berekenen
-56. Scouting - first aid kit samenstellen
-57. Aliens invasion - ruimteschepen tellen en laser kanonen
-58. Saxofoon - jazz festival optredens
-59. Explosies - speciale effecten voor film
-60. Piraten schat - gouden munten en edelstenen verdelen
-61. Minecraft - mod development kosten
+51. Harry Potter - chocoladekikkerkaarten verzamelen
+52. Scouting - marshmallows voor kampvuur
+53. Minecraft - kasteel bouwen met steenblokken
+54. Saxofoon - oefentijd per week bijhouden
+55. Koken - brownies bakken en verdelen
+56. Fortnite - punten gemiddelde berekenen
+57. Tennis - toernooi met percentage berekeningen
+58. Explosies - scheikunde ingrediënten kopen
+59. Zelda - rupees verzamelen in dungeons
+60. Modder - kampactiviteit met modder
+61. Scrabble toernooi - letterwaarden en bonusvelden berekenen
 62. Ninja academy - shuriken en rookbommen kopen
-63. Fortnite - game computer samenstellen
+63. Catan spel - grondstoffen ruilen en steden bouwen
 64. Zelda - amiibo verzameling uitbreiden
-65. Robot fabriek - onderdelen en batterijen berekenen
+65. Monopoly - huizen en hotels kopen op straten
 66. Vampire kasteel - bloedzakken en knoflook voorraad
-67. Dinosaurus park - T-rex voeding en hekken bouwen
+67. Everdell bordspel - bessen en hars verzamelen
 68. Geheime agent - gadgets en explosieven aanschaffen
-69. Kattencafé explosie - 437 katten, 89 ontploffen onverwacht
+69. Scrabble - woordenboek kopen en letters tellen
 70. Superheld kostuum - capes en maskers voor team
-71. Minecraft - textuurpakket maken
+71. Catan uitbreiding - zeevaarders en ridders kopen
 72. Harry Potter - Zweinstein Express kaartjes
-73. Fortnite - esports team sponsoring
+73. Monopoly hotel imperium - alle straten opkopen
 74. Zelda - snelheidsspel uitrusting opzet
-75. Marskolonie - zuurstoftanks en spacesuits berekenen
+75. Everdell seizoenen - nieuwe kaarten en meeples
 76. Haaien aquarium - voeding en nieuwe haaien kopen
-77. Tijdmachine reis - brandstof en reserveonderdelen
+77. Scrabble club - inschrijfgeld en prijzen verdelen
 78. Trollenbruggen tol - hoeveel goud per reiziger
-79. Drakengevecht toernooi - wapens en schilden huren
+79. Catan tournament - deelnemers en rondes organiseren
 80. IJstijd overleven - mammoeten jagen en vuur maken
-81. Minecraft - competitive tournament prizes
+81. Monopoly bank - geld tellen en wisselgeld geven
 82. Spokenspook huis - kettingen en angstkreten kopen
-83. Fortnite - content maker uitrusting
+83. Everdell expansion - nieuwe dieren en constructies
 84. Zelda - verzamelaars editie spellen kopen
-85. Vulkaan laboratory - lava monsters kweken
+85. Scrabble marathon - 12 uur lang woorden maken
 86. Circus van gekke beesten - leeuwen die kunnen rekenen
-87. Onderwater stad - luchtbellen en zeewier oogsten
+87. Catan dice game - verschillende versies verzamelen
 88. Monsterwedstrijd - Frankenstein vs Dracula punten
-89. Explosies - gecontroleerde ontploffing voor bouw
+89. Monopoly world edition - alle landen en valuta
 90. Raketschip naar Jupiter - asteroïden ontwijken
-91. Minecraft - virtual reality opstelling
+91. Everdell tournament - spelerskosten en prijzenpot
 92. Harry Potter - magische dieren reservaat
-93. Wilde dieren ontsnapping - 156 tijgers los in de stad
+93. Scrabble dictionary - alle woorden van 7 letters
 94. Zelda - retro game verzameling
-95. Magische toverdrank brouwen - ingrediënten verzamelen
-96. Gigantische pizza - 847 plakken voor school feest
-97. Meteoriet inslag - hoeveel kraters in je achtertuin
+95. Catan resource trading - verschillende rekenmethodes
+96. Monopoly property - hypotheken en rentes berekenen
+97. Everdell forest - alle seizoenen en uitbreidingen
 98. Kasteel beleg - katapulten en stenen munitie
-99. Eenhoorn boerderij - regenboog verf en glitter kopen
-100. Kloon laboratorium - DNA samples en test buizen
+99. Board game café - alle spellen huren en drankjes
+100. Game night party - snacks, drankjes en spelletjes
